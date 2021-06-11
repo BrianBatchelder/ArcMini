@@ -933,14 +933,14 @@
 				CODE_SIGN_ENTITLEMENTS = CurrentItemWidget/Bits/CurrentItemWidgetExtension.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 18;
-				DEVELOPMENT_TEAM = U5N7VG8DUG;
+				DEVELOPMENT_TEAM = MBZ9U486R3;
 				INFOPLIST_FILE = CurrentItemWidget/Bits/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@executable_path/../../Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.bigpaua.ArcMini.CurrentItemWidget;
+				PRODUCT_BUNDLE_IDENTIFIER = biz.briansbrain.ArcMini.CurrentItemWidget;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 				SWIFT_VERSION = 5.0;
@@ -956,14 +956,14 @@
 				CODE_SIGN_ENTITLEMENTS = CurrentItemWidget/Bits/CurrentItemWidgetExtension.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 18;
-				DEVELOPMENT_TEAM = U5N7VG8DUG;
+				DEVELOPMENT_TEAM = MBZ9U486R3;
 				INFOPLIST_FILE = CurrentItemWidget/Bits/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@executable_path/../../Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.bigpaua.ArcMini.CurrentItemWidget;
+				PRODUCT_BUNDLE_IDENTIFIER = biz.briansbrain.ArcMini.CurrentItemWidget;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 				SWIFT_VERSION = 5.0;
@@ -1095,7 +1095,7 @@
 				CODE_SIGN_ENTITLEMENTS = "Arc Mini/Core/Arc Mini.entitlements";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 18;
-				DEVELOPMENT_TEAM = U5N7VG8DUG;
+				DEVELOPMENT_TEAM = MBZ9U486R3;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = "Arc Mini/Core/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
@@ -1103,7 +1103,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.bigpaua.ArcMini;
+				PRODUCT_BUNDLE_IDENTIFIER = biz.briansbrain.ArcMini;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_OBJC_BRIDGING_HEADER = "Arc Mini/Core/BridgingHeader.h";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
@@ -1120,7 +1120,7 @@
 				CODE_SIGN_ENTITLEMENTS = "Arc Mini/Core/Arc Mini.entitlements";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 18;
-				DEVELOPMENT_TEAM = U5N7VG8DUG;
+				DEVELOPMENT_TEAM = MBZ9U486R3;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = "Arc Mini/Core/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
@@ -1129,7 +1129,7 @@
 					"@executable_path/Frameworks",
 				);
 				ONLY_ACTIVE_ARCH = YES;
-				PRODUCT_BUNDLE_IDENTIFIER = com.bigpaua.ArcMini;
+				PRODUCT_BUNDLE_IDENTIFIER = biz.briansbrain.ArcMini;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_OBJC_BRIDGING_HEADER = "Arc Mini/Core/BridgingHeader.h";
 				SWIFT_VERSION = 5.0;
@@ -1145,14 +1145,14 @@
 				CODE_SIGN_ENTITLEMENTS = RecordersWidget/Bits/RecordersWidgetExtension.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 18;
-				DEVELOPMENT_TEAM = U5N7VG8DUG;
+				DEVELOPMENT_TEAM = MBZ9U486R3;
 				INFOPLIST_FILE = RecordersWidget/Bits/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@executable_path/../../Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.bigpaua.ArcMini.RecordersWidget;
+				PRODUCT_BUNDLE_IDENTIFIER = biz.briansbrain.ArcMini.RecordersWidget;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 				SWIFT_VERSION = 5.0;
@@ -1168,14 +1168,14 @@
 				CODE_SIGN_ENTITLEMENTS = RecordersWidget/Bits/RecordersWidgetExtension.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 18;
-				DEVELOPMENT_TEAM = U5N7VG8DUG;
+				DEVELOPMENT_TEAM = MBZ9U486R3;
 				INFOPLIST_FILE = RecordersWidget/Bits/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@executable_path/../../Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.bigpaua.ArcMini.RecordersWidget;
+				PRODUCT_BUNDLE_IDENTIFIER = biz.briansbrain.ArcMini.RecordersWidget;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 				SWIFT_VERSION = 5.0;
